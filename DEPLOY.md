@@ -551,14 +551,3 @@ sudo apt -y install certbot python3-certbot-nginx
 sudo certbot --nginx -d bot.yourdomain.com
 sudo systemctl restart go-ledger-bot
 ```
-
-## 十八、如果你要我继续补
-
-如果你愿意，我下一步可以继续直接帮你生成这些生产环境文件：
-
-- `go-ledger-bot.service`
-- `nginx-go-ledger-bot.conf`
-- `backup.sh`
-- `build.sh`
-
-这样你上传到服务器几乎就是复制命令即可运行。
