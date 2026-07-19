@@ -1,6 +1,6 @@
 # Go 版 Telegram 免费记账机器人
 
-这是一个用 Go 语言编写的 Telegram 群记账机器人，按 `@jz7x24bot` 公开说明实现同类核心功能。
+这是一个用 Go 语言编写的 Telegram 群记账机器人，按 `@wstjzbot ` 公开说明实现同类核心功能。
 
 ## 联系方式
 
