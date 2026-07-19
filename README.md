@@ -2,6 +2,12 @@
 
 这是一个用 Go 语言编写的 Telegram 群记账机器人，按 `@jz7x24bot` 公开说明实现同类核心功能。
 
+## 联系方式
+
+网站、机器人搭建部署、源码出售
+
+Telegram: `@wangzhanjianshe` `@haotongdao`
+
 ## 已实现功能
 
 - 群内开始/停止记账
