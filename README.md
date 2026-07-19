@@ -26,7 +26,7 @@
 ## 项目结构
 
 ```text
-go-ledger-bot/
+.
 ├─ cmd/
 │  └─ bot/
 │     └─ main.go
@@ -34,7 +34,8 @@ go-ledger-bot/
 ├─ .gitignore
 ├─ DEPLOY.md
 ├─ README.md
-└─ go.mod
+├─ go.mod
+└─ go.sum
 ```
 
 ## 技术栈
@@ -176,4 +177,4 @@ go build -mod=mod -o telegram-ledger-bot-go ./cmd/bot
 
 ## 部署文档
 
-完整服务器部署教程见 [DEPLOY.md](file:///c:/Users/wjykt/Desktop/%E6%9C%BA%E5%99%A8%E4%BA%BA/go-ledger-bot/DEPLOY.md)。
+完整服务器部署教程见 [DEPLOY.md](file:///c:/Users/wjykt/Desktop/%E6%9C%BA%E5%99%A8%E4%BA%BA/DEPLOY.md)。
